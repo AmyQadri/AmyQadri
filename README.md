@@ -3,7 +3,6 @@
 🌱 I’m currently learning HTML, CSS, JavaScript, and exploring frameworks like Bootstrap and Vue.js.
 💞️ I’m looking to collaborate on beginner-friendly web development projects.
 📫 You can reach me through my GitHub profile.
-😄 Pronouns: She/Her
 ⚡ Fun fact: I'm a beginner web developer eager to explore the endless possibilities of coding!
 
 <!---
