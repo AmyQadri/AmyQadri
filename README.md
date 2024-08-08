@@ -1,6 +1,6 @@
 👋 Hi, I’m @AmyQadri
 👀 I’m interested in web development and technology.
-🌱 I’m currently learning HTML, CSS, JavaScript, and exploring frameworks like Bootstrap and Vue.js.
+🌱 I’m currently learning HTML, CSS, JavaScript, and exploring frameworks like Bootstrap, Vue.js, Laravel, and Django.
 💞️ I’m looking to collaborate on beginner-friendly web development projects.
 📫 You can reach me through my GitHub profile.
 ⚡ Fun fact: I'm a beginner web developer eager to explore the endless possibilities of coding!
